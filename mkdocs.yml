@@ -55,3 +55,5 @@ extra:
     - icon: simple/line
       link: "https://line.me/ti/p/9hF6WBmdck"
 copyright: Copyright © 2023 Just Article
+extra_files:
+  - ads.txt
